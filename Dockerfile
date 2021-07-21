@@ -1,4 +1,4 @@
-##FROM continuumio/anaconda3:4.4.0
+#FROM continuumio/anaconda3:4.4.0
 FROM python:3.6.8
 COPY . /usr/app/
 EXPOSE 5000
